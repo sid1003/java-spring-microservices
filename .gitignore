@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+
+# Environment
+.env
+/target/
+
+# Node (if any)
+node_modules/
+package-lock.json
